@@ -1,6 +1,6 @@
 /*
 Section CSC-160-500 - Computer Science I: C++
-File Name: hw6solution5.cpp
+File Name: rationals.cpp
 Author: Adam Androulidakis
 Description:  Calculate rationals using overloaded operators that are not members	
 				of the rational class, using objects of the Class rational.
