@@ -1,2 +1,2 @@
-# university-old-school
+# oldstuff
 Solutions from previous exercises
